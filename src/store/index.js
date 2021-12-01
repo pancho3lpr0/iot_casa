@@ -16,7 +16,7 @@ export default new Vuex.Store({
       footerConfig: {},
     },
     items: [{
-        text: 'Home',
+        text: 'IoT',
         to: '/',
         icon: 'mdi-home',
         meta: {

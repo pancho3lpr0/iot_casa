@@ -2,13 +2,11 @@
   <v-container fluid>
     <v-row align="center" justify="center">
       <v-col cols="12" md="3" lg="3" sm="4" class>
-        <p class="google-font mb-0" style="font-size:150%">Una breve historia del IoT</p>
+        <p class="google-font mb-0" style="font-size:150%">Tu hogar con IoT</p>
         <p
           class="google-font mt-0"
           style="font-size:95%"
-        >El Internet de las cosas nació en 1982 con el primer dispositivo conectado de la historia: una máquina expendedora. Esta máquina inteligente empleaba sus capacidades para controlar las existencias e informar (los inventores podían conectarse para comprobar de forma remota si quedaban botellas de su refresco favorito, e incluso si estaban frías). Aunque la máquina expendedora inteligente no llegó a triunfar, sí predijo el uso a gran escala del IoT industrial, con fábricas que emplean sensores conectados para supervisar todos los aspectos de la cadena de suministro y los procesos de envío.
-
-El nombre del invento, «Internet de las cosas», lo acuñó en 1999 el pionero de la tecnología Kevin Ashton.</p>
+        >un hogar inteligente permite vivir una vida màs sencilla y practica, ¿A quien no le gustaria poder controlar y gestionar en cualquier momento la iluminacion, los equipos audiovisuales, la temperatura de la calefaccion y el aire acondicionad o tu mascota, sin importar donde estas?</p>
         <p class="google-font" style="font-size:95%">About different Google technologies</p>
         <span v-for="(item,i) in whatwedodata" :key="i">
           <v-tooltip bottom>

@@ -21,12 +21,16 @@
           style="font-weight: 350;font-size:230%"
         >
           <b>
-            Internet de las Cosas en Casa
+            Internet de las cosas
             <span style="color: #1a73e8;">IoT</span>.
           </b>
         </p>
-        <p class="google-font mt-0 mb-0" style="font-size:150%">Fundamentos de Internet de las Cosas</p>
-        <p class="google-font" style="font-size:100%">¿Qué convierte una cosa en parte del Internet de las cosas (IoT)? Cualquier dispositivo o artefacto puede ser parte del IoT si cuenta con un interruptor de encendido/apagado y puede conectarse a Internet. La mayoría de los dispositivos IoT cuentan con alguna clase de sensor que les permite monitorizar distintas condiciones. Los dispositivos IoT también son capaces de «hablar» entre ellos, del mismo modo que los equipos y smartphones pueden enviar y recibir información sin interacción humana.</p>
+        <p class="google-font mt-0 mb-0" style="font-size:150%">Internet de las cosas en el hogar: un fenómeno imparable</p>
+        <p class="google-font" style="font-size:100%">Nos guste o no, el internet de las cosas en el hogar ha llegado para quedarse. La tecnología es el futuro y sus aplicaciones más innovadoras pueden llegar a tu hogar mucho más rápido de lo que pueda parecer. Un ejemplo de ello es la tecnología de Internet de las Cosas – IoT (Internet of Things o, como se le denomina más recientemente, Internet of Everything), un concepto que se refiere a la interconexión digital de los objetos cotidianos con Internet, convirtiéndose así en objetos inteligentes.
+
+ 
+
+Lo más atractivo de esta tecnología es que gracias a los aparatos conectados podemos mejorar nuestra calidad de vida, lograr establecer rutinas más sostenibles, alcanzar metas como la eficiencia energética o crear ecosistemas domésticos más confortables.</p>
         <p class="google-font" style="font-size:100%;color:#9e9e9e">
           
         </p>

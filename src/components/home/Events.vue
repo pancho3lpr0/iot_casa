@@ -4,15 +4,14 @@
             <v-col cols="12" md="10" lg="10" sm="12" class="text-center mb-0" >
                 <p class="google-font mb-1" style="font-weight: 350;font-size:180%">
                     <b>
-                        Our
-                        <span style="color: #1a73e8;">Events</span> 
-                        &
-                        <span style="color: #1a73e8;">Meetups</span> 
+                        Video Explicativo
+                        <span style="color: #1a73e8;">IoT</span> 
+                         
                     </b> 
                 </p>
                 
                 <!-- <p class="google-font mb-0" style="font-size:180%">Our Events & Meetups</p> -->
-                <p class="google-font mt-0" style="font-size:95%">At sessions that span from the technical to the visionary, let’s celebrate and discover what the technologies can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us.</p>
+                <p class="google-font mt-0" style="font-size:95%"><iframe width="560" height="315" src="https://www.youtube.com/embed/uY-6PcO96Bw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
                 <router-link
                     to="/events"
                     text

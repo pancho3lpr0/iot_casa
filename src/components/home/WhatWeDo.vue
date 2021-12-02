@@ -24,38 +24,37 @@
         <v-container fluid>
           <v-row>
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
-              <v-icon large style="font-size:300%">mdi-comment</v-icon>
-              <p class="google-font mt-2" style="font-size:130%"></p>
+              <v-icon large style="font-size:300%">mdi-wifi</v-icon>
+              <p class="google-font mt-2" style="font-size:130%">Conectividad, La clave de IoT</p>
               <p
                 class="google-font"
                 style="font-size:95%"
-              >RFID (identificación de radiofrecuencia) es un sistema de etiquetado que permite realizar un seguimiento de artículos o dispositivos y catalogarlos. Tradicionalmente se empleaba en el sector logístico (mediante chips) para hacer cosas como seguir contenedores alrededor del mundo o supervisar las piezas a medida que se desplazan por una línea de producción. Este seguimiento y supervisión a gran escala de dispositivos, piezas o cosas ayudó a tender los cimientos del IoT. De hecho, Ashton trabajaba en el RFID cuando acuñó el nombre del Internet de las cosas.</p>
+              >Internet de las cosas (Internet of Things) consiste en conectar objetos gracias a la tecnologia y en crear una nueva relaciòn entre ellos. El internet de todo (Internet of Everything) va mas alla. En este se incluyen la relacion entre objetos, pero tambien entre ellos y las propias personas. La informacion y los datos son esenciales, pero avamzamos hacia la interaccion de los propios
+              </p>
             </v-col>
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
-              <v-icon large style="font-size:300%">mdi-code-tags</v-icon>
-              <p class="google-font mt-2" style="font-size:130%"></p>
+              <v-icon large style="font-size:300%">mdi-battery</v-icon>
+              <p class="google-font mt-2" style="font-size:130%">Ahorro</p>
               <p
                 class="google-font"
                 style="font-size:95%"
-              >La tecnología machine-to-machine (M2M), que toma el RFID y lo combina con la conectividad a Internet, permite a las máquinas conectarse, comunicarse entre ellas a través de una red y tomar decisiones sin interacción humana.</p>
+              >Con un sistema energetico conectado en el hogar los consumidores pueden ahorrar entorno a un 20% al mes</p>
             </v-col>
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
-              <v-icon large style="font-size:300%">mdi-school</v-icon>
-              <p class="google-font mt-2" style="font-size:130%"></p>
+              <v-icon large style="font-size:300%">mdi-security</v-icon>
+              <p class="google-font mt-2" style="font-size:130%">Seguridad</p>
               <p
                 class="google-font"
                 style="font-size:95%"
-              >Otras tecnologías inalámbricas, unidas a la generalización del Internet de alta velocidad y unos costes de fabricación cada vez menores, crearon el escenario para el IoT.</p>
+              >IoT permite mejorar la seguridad del hogar con sistemas de acceso con huella digital, las alertas automatizadas y las camaras conectadas...</p>
             </v-col>
             <v-col md="3" lg="3" sm="6" cols="6" class="text-center pa-2">
-              <v-icon large style="font-size:300%">mdi-chart-bubble</v-icon>
-              <p class="google-font mt-2" style="font-size:130%"></p>
+              <v-icon large style="font-size:300%" >mdi-comment</v-icon>
+              <p class="google-font mt-2" style="font-size:130%">Intercambio de informacion</p>
               <p
                 class="google-font"
                 style="font-size:95%"
-              >Para 2008, el Internet de las cosas ya había avanzado mucho. Fue en ese momento cuando Cisco comunicó que ya había más objetos que personas utilizando Internet.
-
-La tecnología IoT tal vez tuviera unos principios modestos, pero ahora promete revolucionar la sociedad de incontables maneras, muchas de las cuales aún no podemos ni imaginar.</p>
+              >Los aparatos conectados intercambian informacion de forma constante entre ellos para generar un "estilo de vida" propio en nuestro hogar conectado. Las maquinas conocen nuestros habitos y gustos, y nos ayudan a ganar tiempo en las rutinas diarias</p>
             </v-col>
           </v-row>
         </v-container>

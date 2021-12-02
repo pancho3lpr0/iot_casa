@@ -35,28 +35,7 @@ Lo más atractivo de esta tecnología es que gracias a los aparatos conectados p
           
         </p>
 
-        <v-btn
-          v-if="checkExistance(config.generalConfig.becomemember,0)"
-          :href="config.generalConfig.becomemember"
-          target="_blank"
-          rel="noreferrer"
-          aria-label="Become a Member"
-          class="ma-0 google-font elevation-1 primary mr-2"
-          style="text-transform: capitalize;border-radius:5px;color:white"
-        >Become a Member</v-btn>
-        <v-btn
-          v-if="checkExistance(config.generalConfig.learnMoreLink,0)"
-          :href="config.generalConfig.learnMoreLink"
-          target="_blank"
-          aria-label="Learn More"
-          rounded
-          rel="noreferrer"
-          color="cyan"
-          style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;"
-          outlined
-          class="ml-0"
-          dark
-        >Leer Màs</v-btn>
+        
       </v-col>
     </v-row>
   </v-container>

@@ -21,21 +21,7 @@ En general, la tecnología inteligente ayuda a las cosas a funcionar mejor, de f
 La mayoría de los artilugios IoT domésticos utilizan su router para conectarse al hogar inteligente, que le permite utilizar comandos de voz o el smartphone para controlar muchas funciones de la casa y así ahorrar tiempo, energía o ambas cosas.
 
 Desde el punto de vista comercial, el IoT ayuda a las empresas a supervisar y gestionar fábricas, cadenas de suministro y muchas cosas más. También es posible añadir sensores a una parte dada de una gran maquinaria, como la perforadora de un pozo petrolífero, lo que ayuda a aumentar la producción y la seguridad.</p>
-            <v-btn
-              v-if="checkExistance(config.generalConfig.meetupLink,0)"
-              :href="config.generalConfig.meetupLink"
-              target="_blank"
-              outlined
-              color
-              class="ma-0 google-font mb-2"
-              style="border-radius:5px;text-transform: capitalize;color:white"
-            >Meetup Page</v-btn>&nbsp;
-            <br />
-            <router-link
-              to="/about"
-              class="google-font"
-              style="text-decoration:none;color:white"
-            >See More about {{config.generalConfig.shortName || config.generalConfig.name}}</router-link>
+            
           </div>
         </div>
       </v-col>

@@ -8,8 +8,8 @@
         <v-row align="center" justify="center" class="mb-5">
             <v-col cols="12" md="12" lg="12" sm="12" class="">
                 <v-row>
-                    <v-col md="6" lg="6" sm="6" cols="12">
-                        <p class="google-font mb-0" style="font-size:150%;color: #1a73e8;">Directory of past events</p>
+                    <!--<v-col md="6" lg="6" sm="6" cols="12">
+                        <p class="google-font mb-0" style="font-size:150%;color: #1a73e8;">Eventos pasados</p>
                         <p class="google-font mt-0 mb-0" style="font-size:95%">Events are listed in reverse chronological order by date.</p>
                     </v-col>
                     <v-col md="6" lg="6" sm="6" cols="12">
@@ -22,12 +22,12 @@
                             label="Search"
                             single-line
                         ></v-text-field>
-                    </v-col>
+                    </v-col>-->
                 
                 </v-row>
                 
                     
-                <v-data-table
+                <!--<v-data-table
                     class="mt-3"
                     :search="search"
                     mobile-breakpoint="no"
@@ -44,7 +44,7 @@
                     <template v-slot:item.link="{ item }">
                         <a :href="item.link" target="_blank">See More</a>
                     </template>
-                </v-data-table>
+                </v-data-table>-->
             </v-col>
         </v-row>
     </v-container>

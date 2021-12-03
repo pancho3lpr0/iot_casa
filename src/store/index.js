@@ -25,25 +25,7 @@ export default new Vuex.Store({
         },
       },
       {
-        text: 'Events',
-        to: '/events',
-        icon: 'mdi-assistant',
-        meta: {
-          showToolbar: true,
-          showBottomNav: true
-        },
-      },
-      {
-        text: 'Team',
-        to: '/team',
-        icon: 'mdi-account-settings',
-        meta: {
-          showToolbar: true,
-          showBottomNav: true
-        },
-      },
-      {
-        text: 'Speakers',
+        text: 'Hogar Inteligente',
         to: '/speakers',
         icon: 'mdi-assistant',
         meta: {
@@ -52,7 +34,26 @@ export default new Vuex.Store({
         },
       },
       {
-        text: 'About',
+        text: 'Eventos',
+        to: '/events',
+        icon: 'mdi-assistant',
+        meta: {
+          showToolbar: true,
+          showBottomNav: true
+        },
+      },
+      {
+        text: 'Equipo',
+        to: '/team',
+        icon: 'mdi-account-settings',
+        meta: {
+          showToolbar: true,
+          showBottomNav: true
+        },
+      },
+      
+      {
+        text: 'Acerca de',
         to: '/about',
         icon: 'mdi-comment-alert',
         meta: {
@@ -61,7 +62,7 @@ export default new Vuex.Store({
         },
       },
       {
-        text: 'Contact',
+        text: 'Contacto',
         to: '/contact',
         icon: 'mdi-contacts',
         meta: {
@@ -70,7 +71,7 @@ export default new Vuex.Store({
         },
       },
       {
-        text: 'Partners',
+        text: 'Patrocinadores',
         to: '/partners',
         icon: 'mdi-currency-usd',
         meta: {
@@ -78,7 +79,7 @@ export default new Vuex.Store({
           showBottomNav: false
         },
       },
-      {
+      /*{
         text: 'Blogs',
         to: '/blogs',
         icon: 'mdi-blogger',
@@ -86,7 +87,7 @@ export default new Vuex.Store({
           showToolbar: true,
           showBottomNav: false
         },
-      }
+      }*/
     ]
   },
   getters: {

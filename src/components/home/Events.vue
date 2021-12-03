@@ -18,7 +18,7 @@
                     color="#4C4A78"
                     class="ma-0 google-font mb-0"
                     style="border-radius:5px;text-transform: capitalize;text-decoration:none;color:#4C4A78"
-                >See More</router-link>
+                >Ver mas</router-link>
             </v-col>
             <v-col cols="12" md="12" lg="12" sm="12" class="mt-0 px-0">
                <v-container fluid class="px-2 py-0">

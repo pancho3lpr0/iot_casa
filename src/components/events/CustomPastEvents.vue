@@ -36,13 +36,13 @@
                     :items-per-page="5"
                     :class="$vuetify.theme.dark == true?'darkModeCard':'card-light'"
                 >   
-                    <template v-slot:item.name="{ item }">
+                    <!--<template v-slot:item.name="{ item }">
                         {{item.name}}
                     </template>
 
                     <template v-slot:item.action="{ item }">
                         <a :href="'/events/'+item.id" target="_blank">See More</a>
-                    </template>
+                    </template>-->
                 </v-data-table>
             </v-col>
         </v-row>

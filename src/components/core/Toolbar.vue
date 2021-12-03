@@ -16,9 +16,9 @@
           alt="Community Logo"
           class="shrink mr-2"
           contain
-          :src="config.generalConfig.toolbarImage"
+          src='@/assets/img/svg/iot_logo_chikito.png'
           transition="scale-transition"
-          width="25"
+          width="40"
         />
       </router-link>
     </div>

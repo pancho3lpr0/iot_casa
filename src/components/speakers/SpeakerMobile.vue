@@ -29,7 +29,7 @@
                     </v-row>
                   </template>
                 </v-img>
-              </v-avatar>
+              </v-avatar> 
               <p
                 class="my-0 mt-3 google-font"
                 style="font-size:150%;"
@@ -48,7 +48,7 @@
             </v-col>
             <v-col class="pa-2" cols="12" sm="8">
               <p class="google-font my-4" style="font-size:110%">{{speaker.bio}}</p>
-            </v-col>
+            </v-col>-
           </v-row>
         </v-container>
 
@@ -76,7 +76,7 @@
             </v-list>
           </v-col>
         </v-row>
-      </v-card-text>
+      </v-card-text> 
     </v-card>
     <v-row
       justify="center"

@@ -26,13 +26,22 @@ export default new Vuex.Store({
       },
       {
         text: 'Hogar Inteligente',
+        to: '/about',
+        icon: 'mdi-comment-alert',
+        meta: {
+          showToolbar: true,
+          showBottomNav: true
+        },
+      },
+      /*{
+        text: 'Hdj',
         to: '/speakers',
         icon: 'mdi-assistant',
         meta: {
           showToolbar: true,
           showBottomNav: false
         },
-      },
+      },*/
       {
         text: 'Eventos',
         to: '/events',
@@ -53,16 +62,7 @@ export default new Vuex.Store({
       },
       
       {
-        text: 'Acerca de',
-        to: '/about',
-        icon: 'mdi-comment-alert',
-        meta: {
-          showToolbar: true,
-          showBottomNav: true
-        },
-      },
-      {
-        text: 'Contacto',
+        text: 'Acerca de y Contacto',
         to: '/contact',
         icon: 'mdi-contacts',
         meta: {

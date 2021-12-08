@@ -1,4 +1,5 @@
 <template>
+  
   <div @click="$router.push({ path: '/speakers/'+da.id})" style="cursor: pointer;" class="fill-height">
     <v-avatar size="100" v-ripple>
       <v-img :src="getImgUrl(da.image, 'profile.jpg')">
@@ -12,6 +13,7 @@
     <p class="mt-3 mb-0 google-font" style="font-size:110%">{{da.name}}</p>
     <p class="mt-1 mb-0 google-font" style="font-size:80%">{{da.company.name}}</p>
   </div>
+  
 </template>
 
 <script>

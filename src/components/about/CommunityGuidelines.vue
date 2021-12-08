@@ -1,4 +1,4 @@
-<template>
+<!--<template>
     <v-container fluid class="py-0 my-0 mt-5">
         <!-- <v-row class="py-0 my-0">
             <v-col md="12" sm="12" cols="12" class="py-0 my-0">
@@ -7,16 +7,16 @@
         </v-row> -->
         <v-row align="center" class="py-0 my-0 mb-5">
             <v-col md="8" sm="12" cols="12" class="py-0 my-0">
-                <h1 class="google-font mb-2">Community Guidelines</h1>
-                <!-- {{communitydata.CommunityGuideline}} -->
+                <!--<h1 class="google-font mb-2">Partes inteligentes</h1>
+                {{communitydata.CommunityGuideline}} 
                 <v-expansion-panels accordion>
                     <v-expansion-panel
                         v-for="(item,i) in data"
                         :key="i"
                     >
-                        <v-expansion-panel-header>{{item.name}}</v-expansion-panel-header>
+                        <v-expansion-panel-header>{{item.name}}Smart Kitchen</v-expansion-panel-header>
                         <v-expansion-panel-content>
-                            {{item.des}}
+                            {{item.des}} Ahorro de tiempo, mayor eficiencia energetica y maxima comodidad. Asì son las cocinas inteligentes con electrodomesticos conectados e informacion en tiempo real en tu smartphone
                         </v-expansion-panel-content>
                     </v-expansion-panel>
                 </v-expansion-panels>

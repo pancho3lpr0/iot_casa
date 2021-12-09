@@ -18,7 +18,7 @@
                 </p>-->
 
                 <p class="google-font" style="font-size:110%">
-                    <b style="font-size:120%;">{{data}} is dedicated to providing a harassment-free event experience for everyone, regardless of: </b>
+                    <b style="font-size:120%;">Estas son algunas partes que podemos automatizar u optimizar con IoT en nuestro hogar</b>
 
                     <ul class="mt-2" style="font-size:110%">
                         <li class="google-font">Smart Kitchen: <br>
@@ -46,16 +46,16 @@
                             Viajar con mas tranquilidad, controlar el equipaje en tiempo real y localizarlo si se extravio.
                         </li>
                         <li class="google-font">Sensores inteligentes en el garaje:<br>
-
+                            Abrir y cerrar el garaje desde el movil, dar a acceso a solo usuarios seleccionados o recibir alertas cuando las puertas se abran.
                         </li>
                         <li class="google-font">Sensores en el jardin:<br>
-
+                            El dispositivo registra datos sobre la luz solar y la temperatura, el nivel de fertilizante y el de humedad, programa el sistema de riego y da indicaciones para mejorar el cuidado de las plantas. 
                         </li>
                         <li class="google-font">Mascota en control:<br>
-
+                            Mascota siempre localizada con un dispositivo que conecta tu chip con el movil, incluye alertas de geolocalizacion y monitoriza las actividades del animal, como el patron de sueño.
                         </li>
                         <li class="google-font">Coches conectados:<br>
-                            
+                            IoT localiza en todo momento el coche, busca plazas de aparcamiento libres, crea un historial de rutas recorridas, analiza el estilo de conduccion y propone mejoras.
                         </li>
                     </ul>
 

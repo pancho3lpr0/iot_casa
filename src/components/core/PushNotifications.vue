@@ -8,14 +8,14 @@
       </template>
 
       <v-card>
-        <v-card-title>Allow Us to send Push Notification</v-card-title>
+        <v-card-title>¿Permitir que le enviemos notificaciones?</v-card-title>
 
         <v-card-text>
-          <p>We never spam you by sending unnecessary Push Notification.</p>
-          <p>
-            <span class="font-weight-bold text--primary">Status:</span>
-            {{ token }}
-          </p>
+          <p>Nunca le enviaremos notificaciones Spam.</p>
+          <!--<p>
+            <span class="font-weight-bold text--primary">Estado:</span>
+            
+          </p>-->
         </v-card-text>
 
         <v-divider></v-divider>
@@ -28,8 +28,8 @@
             :loading="isLoading"
             :disabled="buttonText=='Allowed'"
             @click="requestPermission"
-          >{{ buttonText }}</v-btn>
-          <v-btn color="error" text @click="dialog = false">close</v-btn>
+          >Si</v-btn>
+          <v-btn color="error" text @click="dialog = false">Cerrar</v-btn>
         </v-card-actions>
       </v-card>
     </v-dialog>

@@ -3,8 +3,8 @@
         <v-row class="py-0 my-0" align="center">
             <v-col md="4" sm="12" cols="12" class="py-0 my-0">
                 <v-img
-                    :src="require('@/assets/img/dontremove/about.png')"
-                    :lazy-src="require('@/assets/img/dontremove/about.png')"
+                    :src="require('@/assets/img/svg/logo_about.png')"
+                    :lazy-src="require('@/assets/img/svg/logo_about.png')"
                     class=" mb-3"
                     width="100%"
                 >

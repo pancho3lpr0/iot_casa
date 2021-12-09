@@ -1,4 +1,4 @@
-<template>
+<!--<template>
     <v-list three-line subheader class="py-0" :class="$vuetify.theme.dark == true?'black':'white'">
         <v-list-item
         class=""
@@ -15,7 +15,7 @@
             </v-list-item-content>
         </v-list-item>
 
-        <!-- <v-divider inset></v-divider> -->
+        <!-- <v-divider inset></v-divider> 
     </v-list>
 </template>
 

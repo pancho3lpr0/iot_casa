@@ -6,7 +6,10 @@
                     <span style="color: #1a73e8;">Nuestro </span> Equipo </b> 
                 </p>
                 <p class="google-font mt-0 hidden-sm-and-down">Somos estudiantes de TI de 4to grado en la UTOM</p>
-                <p class="google-font mt-0 ">Nuestra meta es aprender a dearrollar apps web. Nuestro equipo esta conformado por:</p>
+                <p class="google-font mt-0 ">Nuestra meta es aprender a dearrollar apps web. Nuestro equipo esta conformado por:
+                    <br> <b>José Francisco Peña Peña, Estudiante de TI en 4to en la UTOM.</b>
+                    <br> <b>Diego Ortega Pérez, Estudiante de TI en 4to en la UTOM.</b>
+                </p>
                 
             </v-col>
         </v-row>
